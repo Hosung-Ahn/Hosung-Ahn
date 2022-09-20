@@ -9,5 +9,3 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=an3735297)](https://solved.ac/an3735297)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hosung-Ahn&layout=compact&theme=cobalt)
