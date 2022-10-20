@@ -2,7 +2,7 @@
 
 ### Hello World👋
 
-- 🔭 I’m currently learning Machine Learning , Deep Learning, Django, Python
+- 🔭 I’m currently learning Django, Python, javascript
 - 🌱 I’m currently interested in Back-end, Finance
 
 ![Hosung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosung-Ahn&show_icons=true&theme=cobalt)
