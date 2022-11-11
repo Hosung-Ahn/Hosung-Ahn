@@ -2,8 +2,8 @@
 
 ### Hello World👋
 
-- 🔭 I’m currently learning Django, Python, javascript
-- 🌱 I’m currently interested in Back-end, Finance
+- 🔭 I’m currently learning Django, Python, Javascript, Algorithm
+- 🌱 I’m currently interested in Front-end, Back-end, Finance
 
 ![Hosung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosung-Ahn&show_icons=true&theme=cobalt)
 
