@@ -2,7 +2,7 @@
 
 ### Hello World👋
 
-- 🔭 I’m currently learning java, spring
+- 🔭 I’m currently learning java, spring, algorithm
 - 🌱 I’m currently interested in Front-end, Back-end, Finance
 
 ![Hosung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosung-Ahn&show_icons=true&theme=cobalt)
