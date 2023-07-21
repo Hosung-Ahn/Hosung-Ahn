@@ -2,8 +2,7 @@
 
 ### Hello World👋
 
-- 🔭 I’m currently learning java, spring, machine-learning, multivariate calculus, linear algebra, statistics
-- 🌱 I’m currently interested in Back-end, Finance, deep-learning
+- 🔭 I’m currently learning java, spring, algorithm, design pattern
 
 ![Hosung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosung-Ahn&show_icons=true&theme=cobalt)
 
