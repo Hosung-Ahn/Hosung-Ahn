@@ -2,8 +2,6 @@
 
 ### Hello World👋
 
-- 🔭 I’m currently learning java, spring, algorithm, design pattern
-
 ![Hosung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosung-Ahn&show_icons=true&theme=cobalt)
 
 
