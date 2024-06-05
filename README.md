@@ -10,7 +10,12 @@
 - [Hackers](https://m.yes24.com/Goods/Detail/72302803) 
 
   1950~2000년 대의 해커들의 삶과 그 와중에 발전된 해커 문화를 알려주는 책입니다. 이 책을 읽고 개발 문화에 동해 개발자가 되기로 했습니다.
-  
+
+### What am I reading 
+- [오브젝트](https://m.yes24.com/Goods/Detail/74219491)
+
+- [21세기를 위한 21가지 제언](https://m.yes24.com/Goods/Detail/63733198)
+
 ### 기록
 배웠던 내용을 [노션](https://hosung-note.notion.site/b99100125faa47908134239b7461e2ca?pvs=4)에 기록합니다.
 
