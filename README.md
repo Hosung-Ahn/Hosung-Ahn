@@ -25,8 +25,8 @@
 
 - Pusan University / Public Administration, Math, Computer Science (2018.03 ~ )
 - Pusan University, 산업수학센터 학부 연구생 (2022.06.01 ~ 2022.08.31)
-- [Algorithm Study Mento](https://github.com/Algorithm-study-busan) (2024.03.01 ~ )
-- [Tech Talk project backend](https://github.com/Tech-Talk-Project) (2023.12 ~ 2024.5) / 부산대학교 수학 5월장 우수상
+- [Algorithm Study](https://github.com/Algorithm-study-busan) - Mento (2024.03.01 ~ )
+- [Tech Talk Project](https://github.com/Tech-Talk-Project) - Backend (2023.12 ~ 2024.5) / 부산대학교 수학 5월장 우수상
 - 2024 PNU Coding Challenge 2등 (PCCP 812점 - Python Lv.4)
 
 # Skill
