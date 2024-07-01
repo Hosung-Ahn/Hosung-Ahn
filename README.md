@@ -1,5 +1,5 @@
 # About Me
-Hello! I’m Hosung Ahn, a backend developer who enjoys reading, taking walks and gaming.
+Hello! I’m Hosung Ahn, a backend developer who enjoys reading and taking walks.
 
 I have a keen interest in various technologies and love learning and developing new things.
 
