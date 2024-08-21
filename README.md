@@ -3,8 +3,6 @@ Hello! I’m Hosung Ahn, a backend developer who enjoys reading and taking walks
 
 I have a keen interest in various technologies and love learning and developing new things.
 
-[Cover Letter](https://hosung-note.notion.site/b67c4016c8af409a9cca3ab3ad72edbf?pvs=4)
-
 ### Books that Define Me
 
 - Sapiens - [[Korean]](https://m.yes24.com/Goods/Detail/23030284) / [[English]](https://www.amazon.com/Sapiens-Yuval-Noah-Harari-audiobook/dp/B0741F3M7C/ref=sr_1_1?crid=193J79B5RBBJD&dib=eyJ2IjoiMSJ9.31uws3pNxXnIoV5ovuHC3v4YuocU4-fTWVAWxqdm54Fw7fBID7Dcux8hUlldgPGN_oRPta3OQ-sErN1CJa90c6xYMejNaHT_xcAqzfiLgmtgUfwvAdPhizALavnrLPGKaTV_pea1UBEttvmb00R_ghsCuzBsUJZxfNbOlYg3MfJOnbfi04G5gbSoceYnQzK3SLC0lIFtSWnQQfibkyjPx_fG24rdHWI5GPUHTN2CoEM._YkvOlZiHl3njy-Bjc5dfpBeOPUZDPJk21pK3lCagBI&dib_tag=se&keywords=sapiens&qid=1719073429&sprefix=sapien%2Caps%2C278&sr=8-1)
