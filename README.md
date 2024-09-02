@@ -27,7 +27,7 @@ I document what I learn on [Notion](https://hosung-note.notion.site/b99100125faa
 # Experience
 
 - Pusan University / Public Administration, Math, Computer Science (2018.03 ~ )
-- [Algorithm Study](https://github.com/Algorithm-study-busan) - Mentor (2024.03.01 ~ )
+- [Algorithm Study](https://github.com/Algorithm-study-busan) - Mentor (2024.03.01 ~ 2024.08.15)
 - [Tech Talk Project](https://github.com/Tech-Talk-Project) - Backend (2023.12 ~ 2024.5)
 - 2024 PNU Coding Challenge 2nd place (PCCP 812 points - Python Lv.4)
 
